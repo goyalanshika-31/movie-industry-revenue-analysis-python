@@ -47,12 +47,17 @@ The objective is to extract business-driven insights using Python data analysis 
 ### 📌 Average Rating by Genre
 ![Average Rating](screenshots/average_rating_by_genre.png)
 
-### 📌 Revenue Trend Over Years
-![Revenue Trend](screenshots/revenue_trend.png)
+### 📌 Average Movie Rating Over Years
+![Rating Over Years](screenshots/average_rating_over_years.png)
 
-### 📌 Correlation Heatmap
-![Heatmap](screenshots/heatmap.png)
+### 📌 Budget vs Rating
+![Budget vs Rating](screenshots/budget_vs_rating.png)
 
+### 📌 Revenue vs Rating
+![Revenue vs Rating](screenshots/revenue_vs_rating.png)
+
+### 📌 Top Rated Movies
+![Top Rated Movies](screenshots/top_rated_movies.png)
 ---
 
 ## 📈 Key Insights
